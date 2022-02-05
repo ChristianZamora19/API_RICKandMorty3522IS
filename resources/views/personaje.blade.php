@@ -21,7 +21,7 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<h1><a href="index.html" id="logo">Personajes The Rick and Morty</a></h1>
+								<h1><a href="index.html" id="logo">ZAMORA ARREOLA CHRISTIAN ARMANDO <br>Personajes The Rick and Morty</a></h1>
 							</header>
 						</div>
 
